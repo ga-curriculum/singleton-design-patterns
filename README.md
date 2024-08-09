@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/singleton-design-pattern-header.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/singleton-design-pattern-in-java) repo instead.
+
 ## About
 
 Explore key design patterns with a focus on the Singleton pattern. Gain insights into its classification, benefits, limitations, and practical applications, including creating a robust database connection manager.
